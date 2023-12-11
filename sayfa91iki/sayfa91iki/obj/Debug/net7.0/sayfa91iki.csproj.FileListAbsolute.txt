@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/bin/Debug/net7.0/sayfa91iki
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/bin/Debug/net7.0/sayfa91iki.deps.json
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/bin/Debug/net7.0/sayfa91iki.runtimeconfig.json
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/bin/Debug/net7.0/sayfa91iki.dll
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/bin/Debug/net7.0/sayfa91iki.pdb
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/obj/Debug/net7.0/sayfa91iki.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/obj/Debug/net7.0/sayfa91iki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/obj/Debug/net7.0/sayfa91iki.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/obj/Debug/net7.0/sayfa91iki.AssemblyInfo.cs
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/obj/Debug/net7.0/sayfa91iki.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/obj/Debug/net7.0/sayfa91iki.dll
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/obj/Debug/net7.0/refint/sayfa91iki.dll
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/obj/Debug/net7.0/sayfa91iki.pdb
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/obj/Debug/net7.0/sayfa91iki.genruntimeconfig.cache
+/Users/beytullah/Projects/sayfa91iki/sayfa91iki/obj/Debug/net7.0/ref/sayfa91iki.dll
